@@ -113,20 +113,20 @@ Clone this repository to your desired folder:
 
 
   cd my-folder<br>
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/yaredtekle022/Leaderboard
 
 
 
 ### Install
 
-Install this project with:
+Install this project with:<br>
 
   npm install
 
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command:<br>
 
 
   npm start
