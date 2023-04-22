@@ -101,7 +101,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need node package manager
+In order to run this project you need node package manager<br>
 
 
  npm install 
@@ -112,7 +112,7 @@ In order to run this project you need node package manager
 Clone this repository to your desired folder:
 
 
-  cd my-folder
+  cd my-folder<br>
   git clone git@github.com:myaccount/my-project.git
 
 
@@ -121,8 +121,6 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-
-  cd my-project
   npm install
 
 
