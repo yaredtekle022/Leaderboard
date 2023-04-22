@@ -11,10 +11,9 @@ submit.addEventListener('click', async (e) => {
     user: userName.value,
     score: score.value,
   };
-console.log(data)
   try {
     const response = await fetch(
-      `https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/v4bQFaaxOTJ7Vsjmm7uh/scores/`,
+      'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/v4bQFaaxOTJ7Vsjmm7uh/scores/',
       {
         method: 'POST', // or 'PUT'
         headers: {
@@ -37,7 +36,7 @@ refreshBtn.addEventListener('click', async () => {
   scoreList.innerHTML = '';
   try {
     const response = await fetch(
-      `https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/v4bQFaaxOTJ7Vsjmm7uh/scores/`,
+      'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/v4bQFaaxOTJ7Vsjmm7uh/scores/',
     );
     const data = await response.json();
     // refresh
