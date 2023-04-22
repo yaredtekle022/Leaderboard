@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3><b>ToDo list</b></h3>
+  <h3><b>Leaderboard</b></h3>
 
 </div>
 
@@ -41,10 +41,6 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-- **add todo list**
-- **remove todo list**
-- **edit todo list**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
