@@ -70,7 +70,7 @@ After you're finished please remove all the comments and instructions!
 ### Tech Stack <a name="tech-stack"></a>
 
 > HTML
-> CSS
+> CSS and
 > Javascript
 
 
