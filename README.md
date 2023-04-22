@@ -61,9 +61,9 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
-> Leaderboard
+> [Leaderboard]
 
-**[your_project__name]** is a...
+**[Leaderboard]** is project that send and receive data from/to the Leaderboard API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -97,25 +97,46 @@ After you're finished please remove all the comments and instructions!
 ## 💻 Getting Started <a name="getting-started"></a>
 
 
-
 To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need node package manager
+
+
+ npm install 
+
 
 ### Setup
 
 Clone this repository to your desired folder:
-cd my-folder
-git clone https://yaredtekle022.github.io/Leaderboard
 
-<!--
-Example commands:
 
-```sh
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
-```
---->
 
 
+
+### Install
+
+Install this project with:
+
+
+  cd my-project
+  npm install
+
+
+### Usage
+
+To run the project, execute the following command:
+
+
+  npm start
+
+
+### Deployment
+
+You can deploy this project using github page deployment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,9 +146,10 @@ Example commands:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/yaredtekle022)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@yaredtekle022](https://github.com/yaredtekle022)
+- Twitter: [@YaredTekle22](https://twitter.com/YaredTekle22)
+- LinkedIn: [yared-tekle-5708ba22b](https://www.linkedin.com/in/yared-tekle-5708ba22b/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
