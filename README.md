@@ -1,8 +1,36 @@
 <a name="readme-top"></a>
 
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
+
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+OPTIONAL SECTIONS:
+- FAQ
+
+After you're finished please remove all the comments and instructions!
+-->
 
 <div align="center">
-  <h3><b>Leaderboard</b></h3>
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
 
 </div>
 
@@ -17,6 +45,11 @@
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -26,28 +59,36 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [ToDo list] <a name="about-project"></a>
+# 📖 [your_project_name] <a name="about-project"></a>
 
-> Leaderboard setup 
+> [Leaderboard]
+
+**[Leaderboard]** is project that send and receive data from/to the Leaderboard API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- Html
-- CSS
-- Javascript
+> HTML
+> CSS and
+> Javascript
+
+
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
+- **[Fetch Api]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
+
+
+- [Live Demo Link](https://yaredtekle022.github.io/Leaderboard/src/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,24 +101,40 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need node package manager<br>
 
-<!--
-Example command:
 
-```sh
- gem install rails
-```
- -->
+ npm install 
+
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-```sh
-  cd my-folder
+
+  cd my-folder<br>
   git clone https://github.com/yaredtekle022/Leaderboard
-```
+
+
+
+### Install
+
+Install this project with:<br>
+
+  npm install
+
+
+### Usage
+
+To run the project, execute the following command:<br>
+
+
+  npm start
+
+
+### Deployment
+
+You can deploy this project using github page deployment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,12 +142,11 @@ Clone this repository to your desired folder:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Yared Tekle**
+👤 **Author1**
 
 - GitHub: [@yaredtekle022](https://github.com/yaredtekle022)
 - Twitter: [@YaredTekle22](https://twitter.com/YaredTekle22)
 - LinkedIn: [yared-tekle-5708ba22b](https://www.linkedin.com/in/yared-tekle-5708ba22b/)
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -99,8 +155,7 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
- 
-- [ API] 
+- [ ] **[order based on score]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,10 +187,13 @@ I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
